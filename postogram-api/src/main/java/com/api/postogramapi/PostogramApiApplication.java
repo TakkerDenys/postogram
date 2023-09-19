@@ -8,6 +8,6 @@ public class PostogramApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PostogramApiApplication.class, args);
+        System.out.println("is started");
     }
-
 }
