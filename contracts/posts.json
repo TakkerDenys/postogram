@@ -1,0 +1,39 @@
+{
+    "posts": {
+        "id": 1,
+        "userId": 1,
+        "userName": "username",
+        "location": "location",
+        "date": "28.09.2023",
+        "content":[
+            "https://www.photo1.com",
+            "https://www.photo2.com",
+            "https://www.video1.com",
+            "https://www.photo3.com"
+        ],
+        "comments": {
+            "userId": [
+                1,
+                2,
+                65
+            ],
+            "comment": [
+                "Фосий пост",
+                "Херня пост",
+                "мені всо равно"
+            ],
+            "date": [
+                "25.09.2023",
+                "26.09.2023",
+                "22.09.2023"
+            ]
+        },
+        "description": "description",
+        "likes": [
+            3,
+            56,
+            34,
+            23
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "notifications": {
+    "id": 1,
+    "userId": 2,
+    "fromUser": 3,
+    "action": "u are liked",
+    "postId": 34,
+    "dateTime": 1693497138
+  }
+}

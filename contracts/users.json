@@ -1,0 +1,25 @@
+{
+  "users": {
+    "id": 1,
+    "userLogin": "userlogin",
+    "password": "*******",
+    "userPhoto": "123.webp",
+    "userName": "userName",
+    "userBio": "userBio",
+    "gender": "male",
+    "profession": "developer",
+    "website": "https://www.google.com/",
+    "email": "examleEmail@gmail.com",
+    "phone": "+380951234567",
+    "followers": [
+      12,
+      34
+    ],
+    "following": [
+      34,
+      23,
+      34
+    ],
+    "isAdmin": false
+  }
+}
